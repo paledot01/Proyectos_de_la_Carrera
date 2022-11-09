@@ -6,7 +6,7 @@ Ciclo actual : 5
 
 ## Primer Ciclo
 
-#### Sistema de venta "Pollos Porcel" | :computer:: [codigo][c1]
+#### Sistema de venta "Pollos Porcel" | :computer:[codigo][c1]
 - Design: propio
 - Code: colaborativo
 - Language: Java
@@ -15,11 +15,11 @@ Ciclo actual : 5
 
 [c1]: https://github.com/paledot02/1er_Ciclo-App_Esc_PollosPorcel
 
-| Acceso | Principal | Pedido |
+|  |  |  |
 | :-------------: |:-------------:| :-----:|
 | ![][1_JavaSE_Acceso] | ![][1_JavaSE_Main] | ![][1_JavaSE_Pedido] |
 
-#### Paginas web "copia de Steam" y "TecnoByte" | :computer::[codigo1][c2]  :eye::[vista previa1][v1] - :computer::[codigo2][c2]  :eye::[vista previa2][v1]
+#### Paginas web "copia de Steam" y "TecnoByte" | :computer:[codigo1][c2]  :eye:[preview1][v1]  -  :computer:[codigo2][c3]  :eye:[preview2][v2]
 - Design: propio
 - Code: null
 - Language: Html y CSS
@@ -31,7 +31,7 @@ Ciclo actual : 5
 [c3]: https://github.com/paledot02/1er_Ciclo-Web_TecnoByte
 [v2]: https://paledot02.github.io/1er_Ciclo-Web_TecnoByte/
 
-| Page_01_01 | Page_02_01 | Page_02_02 | Page_02_03 | Page_02_04 |
+|  |  |  |  |  |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:|
 | ![][1_CSS_01] | ![][1_CSS_02_01] | ![][1_CSS_02_02] | ![][1_CSS_02_03] | ![][1_CSS_02_04] |
 
@@ -48,25 +48,33 @@ Ciclo actual : 5
 
 ## Segundo Ciclo
 
-#### Sistema de matricula "Cibertec"
+#### Sistema de matricula "Cibertec" | :computer:[codigo][c4]
 - Design: compañero
 - Code: colaborativo
 - Language: Java
 - Data Base: null
 - IDE: Eclipse
 
-| Principal | Matricula | Reporte |
+[c4]: https://github.com/paledot02/1er_Ciclo-Web_SteamBamba
+
+|  |  |  |
 | :-------------: |:-------------:| :-----:|
 | ![][2_JavaSE_Main] | ![][2_JavaSE_Matricula] | ![][2_JavaSE_Reporte] |
 
-#### Paginas web "Service Desk" y "EsSalud"
+#### Paginas web "Service Desk" y "EsSalud" | :computer:[codigo1][c5]  :eye:[preview1][v3]  -  :computer:[codigo2][c6]  :eye:[preview2][v4]
 - Design: propio
 - Code: propio
 - Language: Html, CSS y JavaScript
 - Data Base: null
 - Code Editor: Visual Studio Code
 
-| Pag1_01 | Pag1_02 | Pag1_03 | Pag2_01 | Pag2_02 | Pag2_03 |
+[c5]: https://github.com/paledot02/2do_Ciclo-Web_ServiceDesk
+[c6]: https://github.com/paledot02/2do_Ciclo-Web_Vacuna
+[v3]: https://paledot02.github.io/2do_Ciclo-Web_ServiceDesk/
+[v4]: https://paledot02.github.io/2do_Ciclo-Web_Vacuna/
+
+
+|  |  |  |  |  |  |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:| :-----:|
 | ![][2_JS_2_01] | ![][2_JS_2_02] | ![][2_JS_2_03] | ![][2_JS_1_01] | ![][2_JS_1_02] | ![][2_JS_1_03] |
 
@@ -82,12 +90,14 @@ Ciclo actual : 5
 
 ## Tercer Ciclo
 
-#### Sistema de venta "Mega Market"
+#### Sistema de venta "Mega Market" | :computer:[codigo][c7]
 - Design: compañero
 - Code: colaborativo
 - Language: Java
 - Data Base: MySQL
 - IDE: Eclipse
+
+[c7]: https://github.com/paledot02/3er_Ciclo-App_Esc_MegaMarket
 
 |  |  |  |  |  |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:|
@@ -102,13 +112,15 @@ Ciclo actual : 5
 
 ## Cuarto Ciclo
 
-#### Sistema Web "ShoesForMen"
+#### Sistema Web "ShoesForMen" | :computer:[codigo][c8]
 - Design: propio
 - Code: propio
 - Language: Java
 - Data Base: MySQL
 - IDE: Eclipse
 - Include: DAO, AJAX, JQuery, Bootstrap y Jaspersoft Studio.
+
+[c8]: https://github.com/paledot02/4to_Ciclo-App_Web_ShoesForMen
 
 |  |  |  |
 | :-------------: |:-------------:| :-----:|
@@ -118,7 +130,7 @@ Ciclo actual : 5
 [4_JavaEE_02]: ./4-Cuarto_Ciclo/Imagenes/4_JavaEE_02.png
 [4_JavaEE_03]: ./4-Cuarto_Ciclo/Imagenes/4_JavaEE_03.png
 
-#### Sistema Web "RentCar"
+#### Sistema Web "RentCar" | :computer:[codigo][c9]
 - Design: propio
 - Code: propio
 - Language: C#
@@ -126,6 +138,8 @@ Ciclo actual : 5
 - IDE: Visual Studio
 - Include: MVC, ASP.NET, ADO.NET y capas DDD.
 - Nota: Esto no fue un proyecto como los demas sino el examen final del curso, pero se realizo desde cero el diseño de la pagina con CSS, los procedimientos almacenados necesarios en SQL Server y terminando con la logica en Visual Studio.
+
+[c9]: https://github.com/paledot02/4to_Ciclo-App_Web_RentCart
 
 |  |  |  |  |
 | :-------------: | :-------------:| :-----:| :-----:|
@@ -138,13 +152,15 @@ Ciclo actual : 5
 
 ## Quinto Ciclo
 
-#### Sistema Movil "ShoesForMen"
+#### Sistema Movil "ShoesForMen" | :computer:[codigo][c10]
 - Design: propio
 - Code: propio
 - Language: Java
 - Data Base: Firebase
 - IDE: Android Studio
 - video presentacion: https://youtu.be/l_RgDFJira8
+
+[c10]: https://github.com/paledot02/5to_Ciclo-App_Movil_ShoesForMen
 
 |  |  |  |  |  |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:|
