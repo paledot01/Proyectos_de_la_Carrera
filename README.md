@@ -6,24 +6,30 @@ Ciclo actual : 5
 
 ## Primer Ciclo
 
-#### Sistema de venta "Pollos Porcel" :computer: : [codigo][c1_0]
+#### Sistema de venta "Pollos Porcel" | :computer:: [codigo][c1]
 - Design: propio
 - Code: colaborativo
 - Language: Java
 - Data Base: null
 - IDE: Eclipse
 
-[c1_0]: https://github.com/paledot02/1er_Ciclo-App_Esc_PollosPorcel
+[c1]: https://github.com/paledot02/1er_Ciclo-App_Esc_PollosPorcel
+
 | Acceso | Principal | Pedido |
 | :-------------: |:-------------:| :-----:|
 | ![][1_JavaSE_Acceso] | ![][1_JavaSE_Main] | ![][1_JavaSE_Pedido] |
 
-#### Paginas web "copia de Steam" y "TecnoByte"
+#### Paginas web "copia de Steam" y "TecnoByte" | :computer::[codigo1][c2]  :eye::[vista previa1][v1] - :computer::[codigo2][c2]  :eye::[vista previa2][v1]
 - Design: propio
 - Code: null
 - Language: Html y CSS
 - Data Base: null
 - Code Editor: Visual Studio Code
+
+[c2]: https://github.com/paledot02/1er_Ciclo-Web_SteamBamba
+[v1]: https://paledot02.github.io/1er_Ciclo-Web_SteamBamba/
+[c3]: https://github.com/paledot02/1er_Ciclo-Web_TecnoByte
+[v2]: https://paledot02.github.io/1er_Ciclo-Web_TecnoByte/
 
 | Page_01_01 | Page_02_01 | Page_02_02 | Page_02_03 | Page_02_04 |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:|
