@@ -152,15 +152,15 @@ Ciclo actual : 5
 
 ## Quinto Ciclo
 
-#### Sistema Movil "ShoesForMen" | :computer:[codigo][c10]
+#### Sistema Movil "ShoesForMen" | :computer:[codigo][c10]  :clapper:[video][video1]
 - Design: propio
 - Code: propio
 - Language: Java
 - Data Base: Firebase
 - IDE: Android Studio
-- video presentacion: https://youtu.be/l_RgDFJira8
 
 [c10]: https://github.com/paledot02/5to_Ciclo-App_Movil_ShoesForMen
+[video1]: https://youtu.be/l_RgDFJira8
 
 |  |  |  |  |  |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:|
