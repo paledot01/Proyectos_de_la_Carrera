@@ -160,7 +160,7 @@ Ciclo actual : 5
 - IDE: Android Studio
 
 [c10]: https://github.com/paledot02/5to_Ciclo-App_Movil_ShoesForMen
-[video1]: https://youtu.be/l_RgDFJira8
+[video1]: https://youtu.be/temV4ZSfCFI
 
 |  |  |  |  |  |
 | :-------------: |:-------------:| :-----:| :-----:| :-----:|
